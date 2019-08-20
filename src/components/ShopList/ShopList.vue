@@ -56,7 +56,7 @@
   export default {
     data () {
       return {
-        baseImgUrl: 'http://cangdu.org:8001/img/'
+        baseImgUrl: 'https://raw.githubusercontent.com/W-Qing/Vue-MintShop/master/mintshop-client/src/components/ShopList/images/'
       }
     },
     computed: {
